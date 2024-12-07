@@ -1,6 +1,6 @@
 import React from "react";
 
-import pic from "../../public/photo.avif";
+import pic from "../../public/photo1.png";
 
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
@@ -37,11 +37,11 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+            I am a Software Developer with 1 year of experience 
+            and a B.Tech in Computer Science Engineering (CSE). Skilled in HTML, CSS, JavaScript, React.js, MERN stack,
+             Java, .NET, and SQL, I create efficient and responsive applications. I also have expertise in WordPress 
+             for CMS solutions and backend/frontend integration. Familiar with tools like Git, Visual Studio, Postman, and VS Code,
+              I strive to deliver high-quality, user-friendly solutions while continuously learning.
             </p>
             <br />
             {/* social media icons */}
